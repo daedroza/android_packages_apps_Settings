@@ -381,6 +381,17 @@
     <string name="location_mode_battery_saving_title">Battery saving mode</string>
     <string name="location_mode_battery_saving_summary">Use only Wi\u2011Fi, Bluetooth, or cellular networks to determine location (less accurate)</string>
 
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Aggressive Battery</string>
+    <string name="aggressive_battery_summary">More strict battery savings</string>
+    <string name="aggressive_battery_warning_text">These are power saving features. They may interfere with services intended to run at idle, like navigation apps. You can whitelist these apps from being affected in the app battery settings.</string>
+    <string name="aggressive_idle_title">Aggressive Idle</string>
+    <string name="aggressive_idle_summary">Enter device idle more frequently and wake up less</string>
+    <string name="aggressive_standby_title">Aggressive Standby</string>
+    <string name="aggressive_standby_summary">Restrict apps from running in the background</string>
+    <string name="aggressive_battery_saver_title">Auto-enable on battery saver </string>
+    <string name="aggressive_battery_saver_summary">Enable Aggressive Battery automatically when using battery saver</string>
+
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Minimum time between notification sounds</string>
     <string name="app_notification_sound_timeout_summary_template">Allow sounds or vibration no more than once every <xliff:g id="duration">%1$s</xliff:g></string>
